@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "slideshow_tyrRgz": {
@@ -9,8 +18,7 @@
           "settings": {
             "media_type_1": "video",
             "image_1": "",
-            "image_mb_1": "",
-            "video_1": ""
+            "image_mb_1": ""
           },
           "blocks": {
             "group_cgxUxT": {
@@ -44,7 +52,7 @@
                       "type": "text",
                       "name": "t:names.heading",
                       "settings": {
-                        "text": "<h2>Timeless Style for Modern Lives</h2>",
+                        "text": "<h2>Premium Toys for Curious Minds</h2>",
                         "underline_offset": -20,
                         "width": "custom",
                         "custom_width": 60,
@@ -59,8 +67,8 @@
                       "type": "button",
                       "name": "t:names.button",
                       "settings": {
-                        "label": "Shop All Products",
-                        "link": ""
+                        "label": "Shop All Toys",
+                        "link": "/collections/all"
                       },
                       "blocks": {}
                     }
@@ -136,7 +144,7 @@
               "type": "group",
               "name": "t:names.group",
               "settings": {
-                "link": "",
+                "link": "/collections/educational-toys",
                 "horizontal_alignment_flex_direction_column": "center",
                 "vertical_alignment_flex_direction_column": "flex-end",
                 "horizontal_alignment_flex_direction_column_mobile": "center",
@@ -166,8 +174,8 @@
                       "type": "button",
                       "name": "t:names.button",
                       "settings": {
-                        "label": "Shop Coats",
-                        "link": "",
+                        "label": "Shop Wooden & Educational",
+                        "link": "/collections/educational-toys",
                         "width_mobile": "custom",
                         "custom_width_mobile_pixel": 190
                       },
@@ -187,7 +195,7 @@
               "type": "group",
               "name": "t:names.group",
               "settings": {
-                "link": "",
+                "link": "/collections/stem-building-toys",
                 "horizontal_alignment_flex_direction_column": "center",
                 "vertical_alignment_flex_direction_column": "flex-end",
                 "horizontal_alignment_flex_direction_column_mobile": "center",
@@ -217,8 +225,8 @@
                       "type": "button",
                       "name": "t:names.button",
                       "settings": {
-                        "label": "Shop Hoodies",
-                        "link": "",
+                        "label": "Shop STEM & Building",
+                        "link": "/collections/stem-building-toys",
                         "width_mobile": "custom",
                         "custom_width_mobile_pixel": 170
                       },
@@ -238,7 +246,7 @@
               "type": "group",
               "name": "t:names.group",
               "settings": {
-                "link": "",
+                "link": "/collections/soft-toys-plushies",
                 "horizontal_alignment_flex_direction_column": "center",
                 "vertical_alignment_flex_direction_column": "flex-end",
                 "horizontal_alignment_flex_direction_column_mobile": "center",
@@ -268,8 +276,8 @@
                       "type": "button",
                       "name": "t:names.button",
                       "settings": {
-                        "label": "Shop Knits",
-                        "link": "",
+                        "label": "Shop Soft Toys & Plushies",
+                        "link": "/collections/soft-toys-plushies",
                         "width_mobile": "custom",
                         "custom_width_mobile_pixel": 190
                       },
@@ -362,8 +370,8 @@
                   "type": "button",
                   "name": "t:names.button",
                   "settings": {
-                    "label": "Shop For Men",
-                    "link": "",
+                    "label": "Shop Best Sellers",
+                    "link": "/collections/all",
                     "style_class": "link",
                     "button_type_size_link": "",
                     "button_font_weight_link": "",
@@ -377,8 +385,8 @@
                   "type": "button",
                   "name": "t:names.button",
                   "settings": {
-                    "label": "Shop For Women",
-                    "link": "",
+                    "label": "Shop Gift Sets",
+                    "link": "/collections/gift-sets",
                     "style_class": "link",
                     "button_type_size_link": "",
                     "button_font_weight_link": "",
@@ -506,7 +514,7 @@
           "name": "Marquee circle",
           "settings": {
             "gap_between_elements": 42,
-            "text": "LIGHT LAYERS FOR EVERYDAY • LIGHT LAYERS FOR EVERYDAY",
+            "text": "PREMIUM TOYS, CAREFULLY CURATED • PREMIUM TOYS, CAREFULLY CURATED",
             "width": 38,
             "mobile_width": 60,
             "positions_type": "floating",
@@ -567,7 +575,7 @@
                       "type": "text",
                       "name": "t:names.heading",
                       "settings": {
-                        "text": "<h2>Minimalist Designs Crafted for her</h2>",
+                        "text": "<h2>Thoughtfully Made, Built to Last</h2>",
                         "underline_offset": -20,
                         "width": "custom",
                         "unit": "pixel",
@@ -585,7 +593,7 @@
                       "name": "t:names.button",
                       "settings": {
                         "label": "Discover",
-                        "link": "",
+                        "link": "/collections/all",
                         "style_class": "link",
                         "button_type_size_link": "",
                         "button_font_weight_link": "",
@@ -871,7 +879,7 @@
               "type": "group",
               "name": "t:names.group",
               "settings": {
-                "link": "",
+                "link": "/collections/outdoor-ride-ons",
                 "horizontal_alignment_flex_direction_column": "center",
                 "vertical_alignment_flex_direction_column": "flex-end",
                 "horizontal_alignment_flex_direction_column_mobile": "center",
@@ -903,8 +911,8 @@
                       "type": "button",
                       "name": "t:names.button",
                       "settings": {
-                        "label": "Shop For Men",
-                        "link": "",
+                        "label": "Shop Outdoor & Ride-ons",
+                        "link": "/collections/outdoor-ride-ons",
                         "width_mobile": "custom",
                         "unit_mobile": "pixel",
                         "custom_width_mobile_pixel": 190
@@ -925,7 +933,7 @@
               "type": "group",
               "name": "t:names.group",
               "settings": {
-                "link": "",
+                "link": "/collections/art-stationery",
                 "open_in_new_tab": true,
                 "horizontal_alignment_flex_direction_column": "center",
                 "vertical_alignment_flex_direction_column": "flex-end",
@@ -958,8 +966,8 @@
                       "type": "button",
                       "name": "t:names.button",
                       "settings": {
-                        "label": "Shop For Women",
-                        "link": "",
+                        "label": "Shop Arts & Crafts",
+                        "link": "/collections/art-stationery",
                         "width_mobile": "custom",
                         "unit_mobile": "pixel",
                         "custom_width_mobile_pixel": 190
@@ -1286,7 +1294,7 @@
                   "type": "text",
                   "name": "t:names.heading",
                   "settings": {
-                    "text": "<p><strong>The Art of Everyday Elegance</strong></p>",
+                    "text": "<p><strong>Why Parents Choose Premium Toys</strong></p>",
                     "underline_offset": -20,
                     "width": "custom",
                     "unit": "pixel",
@@ -1305,8 +1313,8 @@
                   "type": "button",
                   "name": "t:names.button",
                   "settings": {
-                    "label": "Read the Full Story",
-                    "link": "",
+                    "label": "Read Our Story",
+                    "link": "/pages/about-us",
                     "style_class": "link",
                     "button_type_size_link": "",
                     "button_font_weight_link": "",
@@ -1353,7 +1361,7 @@
         "text_ieAa8P": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>new arrivals</strong></p>",
+            "text": "<p><strong>premium toys, thoughtfully chosen</strong></p>",
             "underline_offset": -20,
             "type_preset": "custom",
             "font_size": "4.0rem",
